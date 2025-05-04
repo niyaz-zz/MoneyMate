@@ -23,28 +23,32 @@ Here’s your updated `README.md` with **screenshots properly embedded** (assumi
 ### 💼 Dashboard Overview
 Displays current balance, total income, total expenses, and recent transactions.
 
-![Dashboard](./screenshots/Screenshot%202025-05-04%20191709.png)
+![Dashboard]![Screenshot 2025-05-04 191709](https://github.com/user-attachments/assets/c2494f22-6347-4c11-8c73-e9c5eeb14042)
+
 
 ---
 
 ### ➕ New Transaction Form
 Add new income or expense entries with category, amount, and optional notes.
 
-![New Transaction](./screenshots/Screenshot%202025-05-04%20191726.png)
+![New Transaction]![Screenshot 2025-05-04 191726](https://github.com/user-attachments/assets/d08fda0e-39c8-4f47-a858-20000cea89de)
+
 
 ---
 
 ### 📈 Analytics Page
 Provides visual spending insights by category and monthly overview.
 
-![Analytics](./screenshots/Screenshot%202025-05-04%20191817.png)
+![Analytics]![Screenshot 2025-05-04 191817](https://github.com/user-attachments/assets/a703b165-1cf1-410b-aff1-c569214e0f1b)
+
 
 ---
 
 ### ⚙️ Settings Page
 Customize preferences like dark mode and biometric lock, and export data.
 
-![Settings](./screenshots/Screenshot%202025-05-04%20191836.png)
+![Settings]![Screenshot 2025-05-04 191836](https://github.com/user-attachments/assets/9425f90a-a6f6-4d41-aad3-2fa2413fdd49)
+
 
 ---
 
