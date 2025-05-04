@@ -1,8 +1,4 @@
-Here’s your updated `README.md` with **screenshots properly embedded** (assuming you save them in a `screenshots` folder inside the root directory of the project):
 
----
-
-````markdown
 # MoneyMate
 
 **MoneyMate** is a sleek and intuitive personal finance tracking app designed to help users monitor and manage their income and expenses effortlessly.
