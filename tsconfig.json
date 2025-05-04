@@ -1,0 +1,32 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "jsx": "react-native",
+    "typeRoots": [
+      "./types",
+      "./node_modules/@types"
+    ],
+    "esModuleInterop": true,
+    "strict": true,
+    "paths": {
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "types/**/*.d.ts",
+    "src/**/*",
+    "App.tsx",
+    "index.ts",
+    "project/**/*",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "expo",
+    "dist",
+    "build"
+  ]
+}
