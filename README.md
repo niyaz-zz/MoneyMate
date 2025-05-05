@@ -50,8 +50,8 @@ Customize preferences like dark mode and biometric lock, and export data.
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: React, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Frontend**: React, TypeScript
+- **Backend**: Node.js
 - **Database**: MongoDB
 - **Charts**: Chart.js or similar (for analytics)
 
